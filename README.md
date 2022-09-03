@@ -1,3 +1,5 @@
 # ValorantTriggerBot
-⚠⚠⚠Use at your own risk⚠⚠⚠\
-This is very simple mechanism Triggerbot which will click mouse left button automatically when reticle color changes.
+⚠⚠⚠Use at your own risk⚠⚠⚠<br>
+
+This is the simplest mechanism Triggerbot.<br>
+It clicks LMB(left mouse button) when your reticle color changed.<br>
