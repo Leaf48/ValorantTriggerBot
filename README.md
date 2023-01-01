@@ -1,5 +1,5 @@
 # ValorantTriggerBot
 ⚠⚠⚠Use at your own risk⚠⚠⚠<br>
 
-This is the simplest mechanism Triggerbot.<br>
-On changing around reticle color, it simulates clicking LMB(Left Mouse Button.)<br>
+This is the simplest mechanism Trigger-bot.<br>
+On detecting a change of reticle color, it simulates LMB click. 
