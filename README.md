@@ -2,4 +2,4 @@
 ⚠⚠⚠Use at your own risk⚠⚠⚠<br>
 
 This is the simplest mechanism Triggerbot.<br>
-It clicks LMB(left mouse button) when your reticle color changed.<br>
+On changing around reticle color, it simulates clicking LMB(Left Mouse Button.)<br>
